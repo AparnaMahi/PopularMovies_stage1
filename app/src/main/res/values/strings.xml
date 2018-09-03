@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="mostpopular_sort">Most Popular</string>
+    <string name="toprated_sort">Top Rated</string>
+    <string name="movie_poster_content">Place holder for image content</string>
+    <string name="user_rating">User Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="plot_synopsis">Plot Synopsis</string>
+    <string name="poster_of_the_movie">Poster of the movie</string>
+</resources>
